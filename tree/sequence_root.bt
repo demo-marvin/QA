@@ -8,7 +8,97 @@
       "label": ""
     },
     "properties": {},
-    "children": [],
+    "children": [
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {},
+        "children": [
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {},
+            "children": [
+              {
+                "activated": true,
+                "metadata": {
+                  "label": ""
+                },
+                "properties": {
+                  "name": "dummy1",
+                  "inputParams": [],
+                  "outputParams": []
+                },
+                "children": [],
+                "id": "aac3a109-caf3-4d56-9020-5d09aac3bc00",
+                "type": "action"
+              },
+              {
+                "activated": true,
+                "metadata": {
+                  "label": ""
+                },
+                "properties": {
+                  "name": "dummy2",
+                  "inputParams": [],
+                  "outputParams": []
+                },
+                "children": [],
+                "id": "5709d201-dd35-4a2b-8c9e-8177e08276c5",
+                "type": "action"
+              }
+            ],
+            "id": "18a56eec-de60-4d40-9084-8a173b8dce63",
+            "type": "sequence"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {},
+            "children": [
+              {
+                "activated": true,
+                "metadata": {
+                  "label": ""
+                },
+                "properties": {
+                  "name": "dummy3",
+                  "inputParams": [],
+                  "outputParams": []
+                },
+                "children": [],
+                "id": "1a3cbd6a-d099-47ef-b1d9-9cf1ac750350",
+                "type": "action"
+              },
+              {
+                "activated": true,
+                "metadata": {
+                  "label": ""
+                },
+                "properties": {
+                  "name": "dummy4",
+                  "inputParams": [],
+                  "outputParams": []
+                },
+                "children": [],
+                "id": "426aa370-955c-467c-b44b-bb990b6131d0",
+                "type": "action"
+              }
+            ],
+            "id": "a7fc3ff6-55a9-432d-8bb7-f9cf7072c74b",
+            "type": "sequence"
+          }
+        ],
+        "id": "cc6d9fa8-b88f-49fa-aa04-6e7e2439ee3b",
+        "type": "sequence"
+      }
+    ],
     "id": "bb81cb6f-0c3f-4b0a-b65b-e82ae1f76309"
   }
 ]
