@@ -17,7 +17,7 @@
         "properties": {
           "behavior": {
             "type": "uriPath",
-            "value": ""
+            "value": "dummy"
           },
           "inputParams": []
         },
