@@ -8,7 +8,25 @@
       "label": ""
     },
     "properties": {},
-    "children": [],
+    "children": [
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
+          "channel": {
+            "type": "string",
+            "value": "dummy"
+          },
+          "sender": "dummySender",
+          "content": "dummyContent"
+        },
+        "children": [],
+        "id": "afcf5fe8-348b-4c61-afea-2e73062412b7",
+        "type": "receiveMessage"
+      }
+    ],
     "id": "ceafb710-bdf0-475f-b355-ccc1e51f1c19"
   }
 ]
